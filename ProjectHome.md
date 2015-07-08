@@ -1,0 +1,1 @@
+use to the framework to fast create npruntime plugin
